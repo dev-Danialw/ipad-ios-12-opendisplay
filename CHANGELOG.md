@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2026-10-25)
+
+
+### Features
+
+* OpenDisplay legacy receiver and headless streaming for iOS 12.5.8 ([500b767](https://github.com/dev-Danialw/ipad-ios-12-opendisplay/commit/500b76730e5b420931c4ce673d63138331e06f0a))
+
 ## [1.25.0](https://github.com/peetzweg/opendisplay/compare/v1.24.0...v1.25.0) (2026-10-01)
 
 
